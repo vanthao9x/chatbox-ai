@@ -1,2 +1,2 @@
 # chatbox-ai
-this project I will build a chatbox ai using js,html, css.
+this project I will build a chatbox gemini ai using js,html, css.
